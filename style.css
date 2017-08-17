@@ -1,0 +1,98 @@
+@CHARSET "ISO-8859-1";
+#mainnav {
+      width: 100%;
+      float: left;
+      margin: 0 0 1em 0;
+      padding: 0;
+      background-color: #FF5733;
+        }
+     .imgteam{
+     
+     margin-left: 150px;
+     }
+   #mainnav ul {
+      list-style: none;
+      width: 800px;
+      margin: 0 auto;
+      padding: 0; }
+   #mainnav  li {
+      float: left; }
+   #mainnav li a {
+      display: block;
+      padding: 8px 15px;
+      text-decoration: none;
+      font-weight: bold;
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      }
+   #mainnav  li:first-child a {
+   font-family: 'Roboto', sans-serif;
+       }
+   #mainnav li a:hover {
+      color: white;
+      background-color: #900C3F;
+      font-family: 'Roboto', sans-serif; }
+      
+      
+      
+      
+      
+      #adminnav {
+      width: 100%;
+      float: left;
+      margin: 0 0 1em 0;
+      padding: 0;
+      background-color:  #2ECC71   ;
+        }
+     .imgteam{
+     
+     margin-left: 150px;
+     }
+   #adminnav ul {
+      list-style: none;
+      width: 800px;
+      margin: 0 auto;
+      padding: 0; }
+   #adminnav  li {
+      float: left; }
+   #adminnav li a {
+      display: block;
+      padding: 8px 15px;
+      text-decoration: none;
+      font-weight: bold;
+      color: white;
+      font-family: 'Roboto', sans-serif;
+      }
+   #adminnav  li:first-child a {
+   font-family: 'Roboto', sans-serif;
+       }
+   #adminnav li a:hover {
+      color: white;
+      background-color:#0B5345;
+      font-family: 'Roboto', sans-serif; }
+      
+
+   /* This is just styling for this specific page. */
+   body, html {
+      margin: 0;
+      padding: 0;
+       }
+       
+       /*Text Styles*/
+       .head1{
+       font-family:'Roboto', sans-serif; 
+         font-size: 120%;
+       }
+     
+       .title{
+       font-family:'Roboto', sans-serif; 
+       font-size: 250%;
+       margin-left:5px;
+       } 
+        .subtitle{
+       font-family:'Roboto', sans-serif; 
+       font-size: 200%;
+       margin-left:10px;
+       margin-top: 5px;
+       } 
+       /*End Of Text Styles*/
